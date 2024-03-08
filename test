@@ -1,3 +1,0 @@
-$url="https://backend.orange.eg";
-
-echo file_get_contents($url);
