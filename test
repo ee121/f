@@ -1,3 +1,3 @@
-$url="https://web.vodafone.com.eg";
+$url="https://mobile.vodafone.com.eg";
 
 echo file_get_contents($url);
